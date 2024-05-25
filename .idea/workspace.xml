@@ -5,15 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9178e11-62ed-4f6c-9c59-52e7c1d3e697" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test_Case_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Alert_Handling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Checkbox_Handle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Make_appoinment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test_Case_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test_Case_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Test_Case__007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/029a075f-5e92-416d-89fc-4c064fb220a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b013eef-45d6-467b-adb7-14569896d249-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c596db5-36b1-4f21-977c-f8983dec01d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1195d88b-3e1a-48a6-9d50-f836cf6959a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1f66dbbc-eb1d-4a55-a06b-413ef0112c2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3318b8de-8529-4d51-9bb8-26896d4891ff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33e22149-9cac-4d8c-901d-058445431a94-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ae41200-f68b-4391-9ca2-cca1325d33d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ff81f37-2511-4c0c-b046-22cadc411f32-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5acacb63-3f92-4333-b914-b35513db908b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5ad59fd7-849e-48f8-b199-ab033c41d199-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d372815-e7c4-40a7-8939-5fb580b23048-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/68568b7a-2175-461d-9cdf-07a5c5967d44-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7302659e-4042-4030-aaa0-8ff3a38dec78-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/788d18d4-eeaa-4061-babf-32d6927bb80b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7898a49b-3ca2-4a72-a983-30a852e1eb40-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f2555dd-00a4-4d1e-88e6-21a30213ef9d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/854a9fad-e323-4852-a611-b3b72851a9fd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8a9dbdc5-939b-411d-820b-36ccb38f187f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8ab51970-d10b-4728-9af2-9f7e859f228b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9fc84186-eff5-4e0b-8be3-e4ecb1b94d19-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/acefcfcb-6986-4b06-90c2-07497649a5d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b38bcc97-817f-4a49-90cb-d4c1e5ce62cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b5638290-2661-4d09-ade7-e042be002d56-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd6e011f-affa-425d-8ae8-3dedd8196197-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf332128-541f-4efc-8b62-27c20222743c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c0987a17-b586-4972-8885-555b7802c3b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c15dca5c-5fa3-469c-86c5-44f6f7a63a93-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb006d25-9b22-49f1-8ddb-6571b9094b4d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dae139e4-a81f-4eb6-a657-64b0e6e67b80-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/de66e16e-016f-4749-b2d2-2b20b8defa90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e37cc8bc-7f1d-4d6f-be55-1ef556a0b414-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8a0b333-dbdc-435a-9102-c3b0204c8bf0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Challenges/Automation_Challenge_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Challenges/Automation_Challenge_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Challenges/Automation_Challenge_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Data_Driven_Testing/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Data_Driven_Testing/data_Driven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Flipkart_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Make_My_Trip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Polluted_City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Spice_jet_Automate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/DataTests.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +66,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2fxAMDRbRFnVPmJEwPNiyDa3Dd3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,15 +79,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.TestCase01.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "JUnit.AppTest.shouldAnswerWithTrue.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./Users/mayankjha/IdeaProjects/Selenium_With_Java/testng.xml.executor": "Run",
     "TestNG.Alert_Handling.executor": "Run",
+    "TestNG.Automation_Challenge_1.executor": "Run",
+    "TestNG.Automation_Challenge_2.executor": "Run",
+    "TestNG.Automation_Challenge_3.Test_Case_Login.executor": "Run",
+    "TestNG.Automation_Challenge_3.executor": "Run",
     "TestNG.Checkbox_Handle.executor": "Run",
+    "TestNG.Flipkart_Question.executor": "Run",
+    "TestNG.Make_My_Trip.executor": "Run",
     "TestNG.Make_appoinment.executor": "Run",
+    "TestNG.Polluted_City.Test_Case_Login.executor": "Debug",
+    "TestNG.Polluted_City.executor": "Run",
+    "TestNG.Spice_jet_Automate.executor": "Run",
     "TestNG.TestCAse_03.executor": "Run",
     "TestNG.TestCase_02.executor": "Run",
     "TestNG.TestCase_02.login.executor": "Run",
@@ -60,10 +107,17 @@
     "TestNG.Test_Case_006.executor": "Run",
     "TestNG.Test_Case_08.executor": "Run",
     "TestNG.Test_Case__007.executor": "Run",
+    "TestNG.data_Driven.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mayankjha/IdeaProjects/Selenium_With_Java/src/test/resources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Selenium_With_Java" />
@@ -77,6 +131,24 @@
       <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
       <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation_Challenge_3.Test_Case_Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_With_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.Challenges" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Challenges.Automation_Challenge_3" />
+      <option name="METHOD_NAME" value="Test_Case_Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,12 +171,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/mayankjha/IdeaProjects/Selenium_With_Java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_With_Java" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCase_02.login" />
         <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+        <item itemvalue="TestNG./Users/mayankjha/IdeaProjects/Selenium_With_Java/testng.xml" />
+        <item itemvalue="TestNG.Automation_Challenge_3.Test_Case_Login" />
+        <item itemvalue="TestNG.TestCase_02.login" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,5 +207,19 @@
       <updated>1714732307120</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/Polluted_City.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

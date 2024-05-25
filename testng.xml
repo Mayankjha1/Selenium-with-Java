@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/mayankjha/IdeaProjects/Selenium_With_Java/src/test/java/org/example/Challenges/Automation_Challenge_3.java">
+        <classes>
+            <class name="org.example.Challenges.Automation_Challenge_3">
+                <methods>
+                    <include name="Test_Case_Login"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
