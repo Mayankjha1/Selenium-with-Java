@@ -1,17 +1,19 @@
 package org.example.Data_Driven_Testing;
 
 import io.qameta.allure.Description;
+import org.apache.commons.io.FileUtils;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-
-
+import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import static org.openqa.selenium.devtools.v123.page.Page.captureScreenshot;
 
 public class data_Driven {
 
@@ -62,6 +64,9 @@ public class data_Driven {
 
         } else {
             WebElement errorMessage = driver.findElement(By.xpath("//div[@id=\"js-notification-box-msg\"]"));
+            if (!errorMessage.isDisplayed()) {
+                captureScreenshot(driver, "InvalidLoginAttempt");
+            }
             Assert.assertTrue(errorMessage.isDisplayed(), "Error message should be displayed for invalid login.");
         }
 
@@ -85,4 +90,16 @@ public class data_Driven {
 
    // @Description("Close Browser")
 
+ public void captureScreenshot(WebDriver driver, String screenshotName) {
+    try {
+        TakesScreenshot ts = (TakesScreenshot) driver;
+        File source = ts.getScreenshotAs(OutputType.FILE);
+        String timestamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+        File destination = new File("./Screenshots/" + screenshotName + "_" + timestamp + ".png");
+        FileUtils.copyFile(source, destination);
+        System.out.println("Screenshot taken: " + destination.getPath());
+    } catch (Exception e) {
+        System.out.println("Exception while taking screenshot: " + e.getMessage());
+    }
+}
 }
